@@ -2,6 +2,9 @@
 
 > 目标：客户提交一个三 Sheet Excel，即可按三大步完成自动化执行。
 
+## 0 到 1 安装入口（客户机器仅 OpenClaw）
+- `docs/00-从零环境安装.md`
+
 ## 三大步（对应三张表）
 1. **Step1 添加员工**（Sheet: `01_添加员工`）
 2. **Step2 费用科目与角色绑定**（Sheet: `02_费用科目配置`）
@@ -39,6 +42,10 @@
 - `success-cases/`
 - `legacy-from-四步标准方案/`
 - `skills/caishui-three-step-standard/`（可复用 Skill）
+
+## 客户环境补充建议（很关键）
+- 若客户无 Python：先按 `docs/00-从零环境安装.md` 安装
+- 推荐在线安装 Python + 依赖；离线安装包建议单独发放，不放主仓库
 
 ## Skill 用法（给小白 AI）
 1. 将仓库克隆到本地，设置：
