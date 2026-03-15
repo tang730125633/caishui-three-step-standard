@@ -1,0 +1,16 @@
+{
+  "companyId": 7061,
+  "step2": {
+    "rows": 25,
+    "ok": 25,
+    "fail": 0,
+    "failures": []
+  },
+  "step3": {
+    "rows": 8,
+    "ok": 8,
+    "fail": 0,
+    "failures": []
+  },
+  "generatedAt": 1773606410
+}

@@ -1,0 +1,54 @@
+{
+  "companyId": 7061,
+  "step1": {
+    "rows": 8,
+    "ok": 2,
+    "skip": 0,
+    "fail": 6,
+    "failures": [
+      {
+        "row": 3,
+        "name": "陈雨3",
+        "reason": "部门不存在:李晓军测试二"
+      },
+      {
+        "row": 4,
+        "name": "刘辰3",
+        "reason": "部门不存在:李晓军测试二"
+      },
+      {
+        "row": 5,
+        "name": "林奕3",
+        "reason": "部门不存在:李晓军测试三"
+      },
+      {
+        "row": 6,
+        "name": "周航3",
+        "reason": "部门不存在:李晓军测试三"
+      },
+      {
+        "row": 7,
+        "name": "何宁3",
+        "reason": "部门不存在:财务部"
+      },
+      {
+        "row": 8,
+        "name": "宋远3",
+        "reason": "部门不存在:人事部"
+      }
+    ]
+  },
+  "step2": {
+    "rows": 25,
+    "ok": 25,
+    "fail": 0,
+    "failures": []
+  },
+  "step3": {
+    "rows": 8,
+    "ok": 8,
+    "fail": 0,
+    "failures": []
+  },
+  "generatedAt": 1773607520
+}

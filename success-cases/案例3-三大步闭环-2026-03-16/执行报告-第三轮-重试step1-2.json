@@ -1,0 +1,9 @@
+{
+  "step1_retry_2": {
+    "rows": 8,
+    "ok": 1,
+    "skip": 7,
+    "fail": 0,
+    "failures": []
+  }
+}

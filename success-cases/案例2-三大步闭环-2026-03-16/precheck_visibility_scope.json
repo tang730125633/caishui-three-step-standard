@@ -1,0 +1,12 @@
+{
+  "companyId": 7061,
+  "excelPath": "/Users/tang/Desktop/财税通自动化三大步标准方案/success-cases/案例2-三大步闭环-2026-03-16/批量表_2.xlsx",
+  "rowsToCreate": 8,
+  "roleCount": 10,
+  "userCount": 741,
+  "departmentCount": 94,
+  "passCount": 15,
+  "failCount": 0,
+  "failures": [],
+  "canContinue": true
+}

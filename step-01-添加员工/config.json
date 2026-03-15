@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "company_id": 0,
+  "base_url": "https://cst.uf-tree.com",
+  "note": "Fill token/company_id at runtime or use browser session extraction. Do not commit real secrets."
+}

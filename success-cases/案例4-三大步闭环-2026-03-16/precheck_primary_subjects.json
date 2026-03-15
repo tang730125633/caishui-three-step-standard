@@ -1,0 +1,15 @@
+{
+  "companyId": 7061,
+  "excelPath": "/Users/tang/Desktop/财税通自动化三大步标准方案/success-cases/案例4-三大步闭环-2026-03-16/批量表_4.xlsx",
+  "sheet2RowsToExecute": 25,
+  "excelPrimarySubjects": [
+    "AI工程_0316",
+    "客户交付_0316",
+    "财税支持_0316",
+    "运营增长_0316",
+    "门店协同_0316"
+  ],
+  "systemPrimarySubjectsCount": 19,
+  "missingPrimarySubjects": [],
+  "canContinue": true
+}

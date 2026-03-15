@@ -1,0 +1,781 @@
+{
+  "companyId": 7061,
+  "items": [
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目A",
+      "feeTemplateId": 28051
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目B",
+      "feeTemplateId": 28052
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目C",
+      "feeTemplateId": 28053
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目D",
+      "feeTemplateId": 28054
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目E",
+      "feeTemplateId": 28055
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目F",
+      "feeTemplateId": 28056
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目G",
+      "feeTemplateId": 28057
+    },
+    {
+      "parentId": 28050,
+      "secondaryName": "测试项目H",
+      "feeTemplateId": 28058
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "瓷砖",
+      "feeTemplateId": 28128
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "水泥",
+      "feeTemplateId": 28129
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "龙骨",
+      "feeTemplateId": 28130
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "办公桌",
+      "feeTemplateId": 28138
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "人体工学椅",
+      "feeTemplateId": 28139
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "文件柜",
+      "feeTemplateId": 28140
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "台灯",
+      "feeTemplateId": 28141
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "轨道灯",
+      "feeTemplateId": 28142
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "应急照明",
+      "feeTemplateId": 28143
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "房产",
+      "feeTemplateId": 28144
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "非专利技术",
+      "feeTemplateId": 28200
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "商标",
+      "feeTemplateId": 28201
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "专利权",
+      "feeTemplateId": 28202
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "软件系统",
+      "feeTemplateId": 28203
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "人工成本工资",
+      "feeTemplateId": 28204
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "人工成本奖金",
+      "feeTemplateId": 28205
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "人工成本社保",
+      "feeTemplateId": 28206
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "人工成本公积金",
+      "feeTemplateId": 28207
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "房租及物业费",
+      "feeTemplateId": 28208
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "耗材成本",
+      "feeTemplateId": 28209
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "折旧费",
+      "feeTemplateId": 28210
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "摊销费",
+      "feeTemplateId": 28211
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "附加税",
+      "feeTemplateId": 28212
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "印花税",
+      "feeTemplateId": 28213
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "城建税",
+      "feeTemplateId": 28214
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "教育费附加",
+      "feeTemplateId": 28215
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "房产税",
+      "feeTemplateId": 28216
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "广告及业务宣传费",
+      "feeTemplateId": 28217
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "营销推广费",
+      "feeTemplateId": 28218
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "佣金和手续费",
+      "feeTemplateId": 28219
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "业务招待费",
+      "feeTemplateId": 28220
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "福利费",
+      "feeTemplateId": 28221
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "会议费",
+      "feeTemplateId": 28222
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "差旅费",
+      "feeTemplateId": 28223
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "劳务费",
+      "feeTemplateId": 28224
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "其他",
+      "feeTemplateId": 28225
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "办公费",
+      "feeTemplateId": 28226
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "装修费",
+      "feeTemplateId": 28227
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "维修费",
+      "feeTemplateId": 28228
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "低值易耗品",
+      "feeTemplateId": 28229
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "租赁费",
+      "feeTemplateId": 28230
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "职工教育经费",
+      "feeTemplateId": 28231
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "系统费",
+      "feeTemplateId": 28232
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "残保金",
+      "feeTemplateId": 28233
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "利息收入",
+      "feeTemplateId": 28234
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "利息支出",
+      "feeTemplateId": 28235
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "手续费",
+      "feeTemplateId": 28236
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "汇兑损益",
+      "feeTemplateId": 28237
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "罚款支出",
+      "feeTemplateId": 28238
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "捐赠支出",
+      "feeTemplateId": 28239
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "非常损失",
+      "feeTemplateId": 28240
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "原材料采购",
+      "feeTemplateId": 28241
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "辅助材料",
+      "feeTemplateId": 28242
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "包装物",
+      "feeTemplateId": 28243
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "燃料",
+      "feeTemplateId": 28244
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "API调用费用",
+      "feeTemplateId": 28245
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "服务器费用",
+      "feeTemplateId": 28246
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "开发成本",
+      "feeTemplateId": 28247
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "运维成本",
+      "feeTemplateId": 28248
+    },
+    {
+      "parentId": 28115,
+      "secondaryName": "技术支持费用",
+      "feeTemplateId": 28249
+    },
+    {
+      "parentId": 28116,
+      "secondaryName": "办公桌",
+      "feeTemplateId": 28131
+    },
+    {
+      "parentId": 28117,
+      "secondaryName": "人体工学椅",
+      "feeTemplateId": 28132
+    },
+    {
+      "parentId": 28117,
+      "secondaryName": "文件柜",
+      "feeTemplateId": 28133
+    },
+    {
+      "parentId": 28118,
+      "secondaryName": "台灯",
+      "feeTemplateId": 28134
+    },
+    {
+      "parentId": 28118,
+      "secondaryName": "轨道灯",
+      "feeTemplateId": 28135
+    },
+    {
+      "parentId": 28118,
+      "secondaryName": "应急照明",
+      "feeTemplateId": 28136
+    },
+    {
+      "parentId": 28118,
+      "secondaryName": "房产",
+      "feeTemplateId": 28137
+    },
+    {
+      "parentId": 28119,
+      "secondaryName": "非专利技术",
+      "feeTemplateId": 28145
+    },
+    {
+      "parentId": 28119,
+      "secondaryName": "商标",
+      "feeTemplateId": 28146
+    },
+    {
+      "parentId": 28119,
+      "secondaryName": "专利权",
+      "feeTemplateId": 28147
+    },
+    {
+      "parentId": 28119,
+      "secondaryName": "软件系统",
+      "feeTemplateId": 28148
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "人工成本工资",
+      "feeTemplateId": 28282
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "人工成本奖金",
+      "feeTemplateId": 28283
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "人工成本社保",
+      "feeTemplateId": 28284
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "人工成本公积金",
+      "feeTemplateId": 28285
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "房租及物业费",
+      "feeTemplateId": 28153
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "耗材成本",
+      "feeTemplateId": 28154
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "折旧费",
+      "feeTemplateId": 28155
+    },
+    {
+      "parentId": 28120,
+      "secondaryName": "摊销费",
+      "feeTemplateId": 28156
+    },
+    {
+      "parentId": 28121,
+      "secondaryName": "附加税",
+      "feeTemplateId": 28157
+    },
+    {
+      "parentId": 28121,
+      "secondaryName": "印花税",
+      "feeTemplateId": 28158
+    },
+    {
+      "parentId": 28121,
+      "secondaryName": "城建税",
+      "feeTemplateId": 28159
+    },
+    {
+      "parentId": 28121,
+      "secondaryName": "教育费附加",
+      "feeTemplateId": 28160
+    },
+    {
+      "parentId": 28121,
+      "secondaryName": "房产税",
+      "feeTemplateId": 28161
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "广告及业务宣传费",
+      "feeTemplateId": 28162
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "营销推广费",
+      "feeTemplateId": 28163
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "佣金和手续费",
+      "feeTemplateId": 28164
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "业务招待费",
+      "feeTemplateId": 28165
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "福利费",
+      "feeTemplateId": 28166
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "会议费",
+      "feeTemplateId": 28167
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "差旅费",
+      "feeTemplateId": 28168
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "劳务费",
+      "feeTemplateId": 28169
+    },
+    {
+      "parentId": 28122,
+      "secondaryName": "其他",
+      "feeTemplateId": 28170
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "办公费",
+      "feeTemplateId": 28171
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "装修费",
+      "feeTemplateId": 28172
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "维修费",
+      "feeTemplateId": 28173
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "低值易耗品",
+      "feeTemplateId": 28174
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "租赁费",
+      "feeTemplateId": 28175
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "福利费",
+      "feeTemplateId": 28176
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "职工教育经费",
+      "feeTemplateId": 28177
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "摊销费",
+      "feeTemplateId": 28178
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "系统费",
+      "feeTemplateId": 28179
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "残保金",
+      "feeTemplateId": 28180
+    },
+    {
+      "parentId": 28123,
+      "secondaryName": "其他",
+      "feeTemplateId": 28181
+    },
+    {
+      "parentId": 28124,
+      "secondaryName": "利息收入",
+      "feeTemplateId": 28182
+    },
+    {
+      "parentId": 28124,
+      "secondaryName": "利息支出",
+      "feeTemplateId": 28183
+    },
+    {
+      "parentId": 28124,
+      "secondaryName": "手续费",
+      "feeTemplateId": 28184
+    },
+    {
+      "parentId": 28124,
+      "secondaryName": "汇兑损益",
+      "feeTemplateId": 28185
+    },
+    {
+      "parentId": 28125,
+      "secondaryName": "罚款支出",
+      "feeTemplateId": 28186
+    },
+    {
+      "parentId": 28125,
+      "secondaryName": "捐赠支出",
+      "feeTemplateId": 28187
+    },
+    {
+      "parentId": 28125,
+      "secondaryName": "非常损失",
+      "feeTemplateId": 28188
+    },
+    {
+      "parentId": 28125,
+      "secondaryName": "其他",
+      "feeTemplateId": 28189
+    },
+    {
+      "parentId": 28126,
+      "secondaryName": "原材料采购",
+      "feeTemplateId": 28190
+    },
+    {
+      "parentId": 28126,
+      "secondaryName": "辅助材料",
+      "feeTemplateId": 28191
+    },
+    {
+      "parentId": 28126,
+      "secondaryName": "包装物",
+      "feeTemplateId": 28192
+    },
+    {
+      "parentId": 28126,
+      "secondaryName": "低值易耗品",
+      "feeTemplateId": 28193
+    },
+    {
+      "parentId": 28126,
+      "secondaryName": "燃料",
+      "feeTemplateId": 28194
+    },
+    {
+      "parentId": 28127,
+      "secondaryName": "API调用费用",
+      "feeTemplateId": 28195
+    },
+    {
+      "parentId": 28127,
+      "secondaryName": "服务器费用",
+      "feeTemplateId": 28196
+    },
+    {
+      "parentId": 28127,
+      "secondaryName": "开发成本",
+      "feeTemplateId": 28197
+    },
+    {
+      "parentId": 28127,
+      "secondaryName": "运维成本",
+      "feeTemplateId": 28198
+    },
+    {
+      "parentId": 28127,
+      "secondaryName": "技术支持费用",
+      "feeTemplateId": 28199
+    },
+    {
+      "parentId": 28286,
+      "secondaryName": "增长策略费_0316",
+      "feeTemplateId": 28291
+    },
+    {
+      "parentId": 28287,
+      "secondaryName": "模型调用费_0316",
+      "feeTemplateId": 28292
+    },
+    {
+      "parentId": 28288,
+      "secondaryName": "收银系统费_0316",
+      "feeTemplateId": 28293
+    },
+    {
+      "parentId": 28289,
+      "secondaryName": "实施服务费_0316",
+      "feeTemplateId": 28294
+    },
+    {
+      "parentId": 28290,
+      "secondaryName": "税务咨询费_0316",
+      "feeTemplateId": 28295
+    },
+    {
+      "parentId": 28286,
+      "secondaryName": "活动策划费_0316",
+      "feeTemplateId": 28296
+    },
+    {
+      "parentId": 28286,
+      "secondaryName": "用户运营费_0316",
+      "feeTemplateId": 28297
+    },
+    {
+      "parentId": 28286,
+      "secondaryName": "渠道测试费_0316",
+      "feeTemplateId": 28298
+    },
+    {
+      "parentId": 28286,
+      "secondaryName": "复盘分析费_0316",
+      "feeTemplateId": 28299
+    },
+    {
+      "parentId": 28287,
+      "secondaryName": "提示词优化费_0316",
+      "feeTemplateId": 28300
+    },
+    {
+      "parentId": 28287,
+      "secondaryName": "Agent维护费_0316",
+      "feeTemplateId": 28301
+    },
+    {
+      "parentId": 28287,
+      "secondaryName": "向量存储费_0316",
+      "feeTemplateId": 28302
+    },
+    {
+      "parentId": 28287,
+      "secondaryName": "推理加速费_0316",
+      "feeTemplateId": 28303
+    },
+    {
+      "parentId": 28288,
+      "secondaryName": "巡检系统费_0316",
+      "feeTemplateId": 28304
+    },
+    {
+      "parentId": 28288,
+      "secondaryName": "库存同步费_0316",
+      "feeTemplateId": 28305
+    },
+    {
+      "parentId": 28288,
+      "secondaryName": "电子价签费_0316",
+      "feeTemplateId": 28306
+    },
+    {
+      "parentId": 28288,
+      "secondaryName": "排班优化费_0316",
+      "feeTemplateId": 28307
+    },
+    {
+      "parentId": 28289,
+      "secondaryName": "上线辅导费_0316",
+      "feeTemplateId": 28308
+    },
+    {
+      "parentId": 28289,
+      "secondaryName": "培训服务费_0316",
+      "feeTemplateId": 28309
+    },
+    {
+      "parentId": 28289,
+      "secondaryName": "交付验收费_0316",
+      "feeTemplateId": 28310
+    },
+    {
+      "parentId": 28289,
+      "secondaryName": "迁移支持费_0316",
+      "feeTemplateId": 28311
+    },
+    {
+      "parentId": 28290,
+      "secondaryName": "审计支持费_0316",
+      "feeTemplateId": 28312
+    },
+    {
+      "parentId": 28290,
+      "secondaryName": "合同审阅费_0316",
+      "feeTemplateId": 28313
+    },
+    {
+      "parentId": 28290,
+      "secondaryName": "报表整理费_0316",
+      "feeTemplateId": 28314
+    },
+    {
+      "parentId": 28290,
+      "secondaryName": "风控校验费_0316",
+      "feeTemplateId": 28315
+    }
+  ],
+  "generatedAt": 1773606403
+}
